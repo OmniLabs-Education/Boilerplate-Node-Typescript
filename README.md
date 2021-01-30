@@ -1,4 +1,3 @@
-**Aplicação**
 Esta aplicação foi feita para ensinar e facilitar o uso de configurações que sempre utilizamos em projetos.
 
 Para instalar as dependências e iniciar o projeto, você pode utilizar o Yarn ou NPM:
